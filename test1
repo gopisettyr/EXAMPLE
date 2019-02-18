@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+public static void main(string[] args){
+int a=0;
+printf(a);
+}
+
+
